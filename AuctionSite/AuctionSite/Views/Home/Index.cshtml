@@ -1,0 +1,167 @@
+﻿<section class="section-working">
+    <div class="row">
+        <h3 class="heading" style="text-align:center;">How Auction works</h3>
+    </div>
+    <div class="row working-div">
+        <div class="col-md-3 text-center working">
+            <i class="glyphicon glyphicon-pencil working-logo"></i>
+            <br />
+            <h4>Register free</h4>
+            First of all Register yourself in Auction to get started...
+        </div>
+        <div class="col-md-3 text-center working">
+            <i class="glyphicon glyphicon-shopping-cart working-logo"></i>
+            <br />
+            <h4>Choose an Auction</h4>
+            choose from our products, a laptop, credits, 3D TV or Xbox One
+        </div>
+        <div class="col-md-3 text-center working">
+            <i class="glyphicon glyphicon-euro working-logo"></i>
+            <br />
+            <h4>Bid &amp; Win</h4>
+            The price increases with every bid by &euro; 0.01. Bid and Win that auction.
+        </div>
+        <div class="col-md-3 text-center working">
+            <i class="glyphicon glyphicon-home working-logo"></i>
+            <br />
+            <h4>Free Home Delivery</h4>
+            Yes pays no shipping costs
+        </div>
+    </div>
+</section>
+
+<div class="timer"></div>
+
+<section class="section-auction">
+    <div sty class="row heading">
+        <h3 style="text-align:center;">The Auction Site where you always win!</h3>
+    </div>
+    <div class="row auction-div text-center">
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S9 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="70"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3">
+            <div style="padding:10px;" class="thumbnail">
+                <img src="~/images/iphone.png" alt="...">
+                <div class="caption">
+                    <h4>Samsung Galaxy S10 512 GB</h4>
+
+                    <div style="margin-left:85px;" class="timer-quick" data-seconds-left="80"></div>
+
+                    <h3>&euro; 947</h3>
+                    <p><a href="#" class="btn btn-primary" role="button">Bid</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+@section Scripts {
+<script>
+    $(function () {
+        $('.timer-quick').startTimer();
+    });
+
+    var newYear = new Date();
+    newYear = newYear.setSeconds(new.getSeconds() + 30);
+    //newYear = new Date(newYear.getFullYear(), newYear.getMonth(), newYear.getDate(), newYear.getHours(), newYear.getMinutes() + 1, newYear.getSeconds());
+    $('.timer').countdown({ until: newYear, format: 'MS' });
+</script>
+}
