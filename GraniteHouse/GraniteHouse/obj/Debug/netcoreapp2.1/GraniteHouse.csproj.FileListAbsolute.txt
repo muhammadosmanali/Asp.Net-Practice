@@ -1,0 +1,391 @@
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.deps.json
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.json
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.dev.json
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.dll
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.pdb
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.dll
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CoreCompileInputs.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfoInputs.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfo.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.input.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.output.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorCoreGenerate.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.dll
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.pdb
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CopyComplete
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\About.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Contact.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Create.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Edit.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Create.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Edit.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Details.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Delete.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentProductDetails.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentCustomerDetails.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+C:\Users\Usman\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.deps.json
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.json
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.dev.json
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.dll
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.pdb
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.dll
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfoInputs.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfo.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.input.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.output.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorCoreGenerate.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Create.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Create.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Details.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\About.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Contact.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentCustomerDetails.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentProductDetails.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cs
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.dll
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.pdb
+D:\Visual Studio Repositories\ASp.Net core\source\repos\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CopyComplete
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.deps.json
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.json
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.dev.json
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.dll
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.pdb
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.dll
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfoInputs.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfo.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.input.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.output.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorCoreGenerate.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Create.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Create.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Delete.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Details.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Edit.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\About.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Contact.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentCustomerDetails.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentProductDetails.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cs
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.dll
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.pdb
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CopyComplete
+D:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.deps.json
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.json
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.runtimeconfig.dev.json
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.dll
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.pdb
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.dll
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\bin\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csprojAssemblyReference.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CoreCompileInputs.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorAssemblyInfo.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfoInputs.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.AssemblyInfo.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.input.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.TagHelpers.output.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorCoreGenerate.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Create.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Create.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Delete.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Details.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Edit.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\SpecialTags\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\About.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Contact.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Details.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Home\Privacy.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentCustomerDetails.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AppointmentProductDetails.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cache
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.RazorTargetAssemblyInfo.cs
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.Views.pdb
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.dll
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.pdb
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\GraniteHouse.csproj.CopyComplete
+F:\Visual Studio Repositories\GraniteHouse\GraniteHouse\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Details.g.cshtml.cs
